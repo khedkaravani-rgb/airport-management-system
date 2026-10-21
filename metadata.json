@@ -1,0 +1,6 @@
+{
+  "name": "SkyPort AMS - Airport Management System",
+  "description": "Relational Airport Management System with interactive ERD visualizer, live flight operations, passenger check-in, crew assignment roster, and interactive SQL query workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
