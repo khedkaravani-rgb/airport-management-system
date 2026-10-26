@@ -530,9 +530,7 @@ export const ERDVisualizer: React.FC<ERDVisualizerProps> = ({ dbState, onNavigat
             <Info className="w-5 h-5 text-sky-400" />
             <h3 className="text-base font-semibold text-slate-100">Production Improvisations & Schema Optimizations</h3>
           </div>
-          <p className="text-xs text-slate-400">
-            As requested ("you can improvise it"), here are key production improvements implemented while maintaining 100% backward compatibility with your base MySQL script:
-          </p>
+          
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs">
             <div className="p-4 bg-slate-950 rounded-lg border border-slate-800 space-y-2">
